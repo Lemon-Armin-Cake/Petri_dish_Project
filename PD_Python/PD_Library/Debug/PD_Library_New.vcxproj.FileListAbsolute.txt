@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Advanced Step 3\PD_Library_New\x64\Debug\PD_Library_New.dll
+C:\Users\User\Desktop\Advanced Step 3\PD_Python\PD_Library_New\x64\Debug\PD_Library_New.dll
